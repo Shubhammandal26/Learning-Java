@@ -1,0 +1,8 @@
+/.metadata/
+# Compiled Java files
+*.class
+
+# Java build output
+bin/
+target/
+
