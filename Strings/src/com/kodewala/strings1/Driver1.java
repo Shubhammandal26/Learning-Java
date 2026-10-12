@@ -9,10 +9,10 @@ public class Driver1 {
 		
 		s.concat(" Academy");
 		
+		System.out.println(s);
 //		String s2 = s.concat(" Academy"); // trying to change the object
 //		object created in heap with content Kodewala Academy
 		
-		System.out.println(s);
 //		System.out.println(s2);  // Kodewala Academy
 	}
 
