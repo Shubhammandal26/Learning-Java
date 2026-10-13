@@ -8,7 +8,7 @@ class AccountMgmt
 	public final void doSomething1()
 	{
 //		able to change the value
-		UPI_LIMIT = 20000;  
+//		UPI_LIMIT = 20000;  
 	}
 	
 	
