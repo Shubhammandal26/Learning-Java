@@ -4,7 +4,7 @@ public class QueryGenerator
 {
 	public StringBuilder generateQuery(int salary, String empID) 
 	{
-		StringBuilder query = new StringBuilder("Select * from employee"); // create sb object
+		StringBuilder query = new StringBuilder("Select * from employee"); // create query object
 		
 		if(salary > 0) 
 		{
