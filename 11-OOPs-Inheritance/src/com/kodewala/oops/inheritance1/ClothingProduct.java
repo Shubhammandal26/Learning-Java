@@ -21,8 +21,6 @@ public class ClothingProduct extends Product
 		System.out.println(quantity);
 		System.out.println(status);
 		
-		
-		
 		System.out.println(type);
 		System.out.println(isExchange);
 	}
