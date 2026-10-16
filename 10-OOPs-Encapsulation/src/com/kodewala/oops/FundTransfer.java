@@ -10,8 +10,6 @@ public class FundTransfer {
 		
 		int balance = account.checkBalance();
 		
-	//	System.out.println("Account Holder name: " + account.);
-	//	System.out.println(account.checkBalance());
 		System.out.println("Remaining balance : " + balance);
 		
 		
