@@ -44,7 +44,7 @@ public class Driver {
 	public static void main(String[] args) {
 		
 		PensionAccount account = new PensionAccount();
-		account.openAccount("shubham", "shubham@gmail");
+		account.openAccount("amit", "amit@gmail");
 
 	}
 
