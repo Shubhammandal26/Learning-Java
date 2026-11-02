@@ -81,5 +81,17 @@ public class Booking  {
 		public void setSeatNumber(String seatNumber) {
 			this.seatNumber = seatNumber;
 		}
+		
+		public void displayDetails()
+		{
+			System.out.println("Booking ID: " + bookingId);
+	        System.out.println("Passenger: " + passengerName);
+	        System.out.println("Source: " + source);
+	        System.out.println("Destination: " + destination);
+	        System.out.println("Ticket Price: " + ticketPrice);
+	        System.out.println("Payment Status: " + paymentStatus);
+	        System.out.println("Seat Number: " + seatNumber);
+	        System.out.println("Booking Status: " + status);
+		}
 
 }
