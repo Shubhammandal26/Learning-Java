@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Message implements Serializable
 {
 
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L;  // de serialization right class(role of serialVersionUID)
 	private String messageId;
 	private String message;
 //	private transient String userId; // will be skipped during serialization
